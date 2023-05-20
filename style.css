@@ -55,6 +55,9 @@ body{
     line-height: 0.2rem;
     text-align:center;
   }
+a{
+color:#000000;
+}
   
   .icons{
     max-width: 25px;
